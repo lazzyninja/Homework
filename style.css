@@ -1,0 +1,30 @@
+*{
+	overflow-x: hidden;
+	background-color:#ffe4ad;
+	font-family:"readme";
+}
+p{
+	margin: 25px 25% 15px;
+	font-size: 20px;
+	color:#5f2f03;
+	background-color:#ffe4ad;
+}
+h1,h2,h3,h4{
+	margin: 25px 25% 15px;
+} 
+img{
+	margin: 25px 25% 15px;
+}
+h2{
+	color:#687265;
+}
+h4{
+	color:red;
+}
+@font-face{
+	font-family:"readme";
+	src:url(DancingScript-VariableFont_wght.ttf);
+}
+video{
+	margin: 25px 25% 15px;
+}
